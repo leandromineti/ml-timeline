@@ -15,6 +15,7 @@ If you spot a mistake or omission, please feel free to create a new issue.
 - Bixby, R. E. (2012). A brief history of linear and mixed-integer programming computation. Documenta Mathematica, 107-121.
 - Casella, G., & Robert, C. P. (2011). A Short History of Markov Chain Monte Carlo: Subjective Recollections from Incomplete Data (No. 123456789/3549). Paris Dauphine University.
 - Gass, S. I., & Assad, A. A. (2005). An annotated timeline of operations research: An informal history (Vol. 75). Springer Science & Business Media.
+- Haugeland, J. (1989). Artificial intelligence: The very idea. MIT press.
 - Lemaréchal, C. (2012). Cauchy and the gradient method. Doc Math Extra, 251, 254.
 - Liu, J., Kong, X., Xia, F., Bai, X., Wang, L., Qing, Q., & Lee, I. (2018). Artificial Intelligence in the 21st Century. IEEE Access, 6, 34403–34421. https://doi.org/10.1109/ACCESS.2018.2819688
 - Salsburg, D. (2001). The lady tasting tea. Henry Holt and Company, LLC, New York, NY.
