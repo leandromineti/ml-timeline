@@ -10,10 +10,12 @@ If you spot a mistake or omission, please feel free to create a new issue.
 
 ## References
 
+- A “Brief” History of Neural Nets and Deep Learning. (n.d.). Retrieved February 4, 2019, from /writing/ai/a-brief-history-of-neural-nets-and-deep-learning/
 - A Review of the Neural History of Natural Language Processing. (2018, October 1). Retrieved February 2, 2019, from http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/
 - Bottou, L., Curtis, F. E., & Nocedal, J. (2018). Optimization methods for large-scale machine learning. SIAM Review, 60(2), 223-311.
 - Bixby, R. E. (2012). A brief history of linear and mixed-integer programming computation. Documenta Mathematica, 107-121.
 - Casella, G., & Robert, C. P. (2011). A Short History of Markov Chain Monte Carlo: Subjective Recollections from Incomplete Data (No. 123456789/3549). Paris Dauphine University.
+- Deep Learning 101 - Part 1: History and Background. (n.d.). Retrieved February 4, 2019, from https://beamandrew.github.io/deeplearning/2017/02/23/deep_learning_101_part1.html
 - Gass, S. I., & Assad, A. A. (2005). An annotated timeline of operations research: An informal history (Vol. 75). Springer Science & Business Media.
 - Haugeland, J. (1989). Artificial intelligence: The very idea. MIT press.
 - Lemaréchal, C. (2012). Cauchy and the gradient method. Doc Math Extra, 251, 254.
